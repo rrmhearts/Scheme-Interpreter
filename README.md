@@ -1,2 +1,2 @@
 # Scheme-Interpreter
-# SmallFish
+Basic language interpreter
